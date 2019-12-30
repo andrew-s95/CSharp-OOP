@@ -1,0 +1,11 @@
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.deps.json
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.runtimeconfig.json
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.runtimeconfig.dev.json
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.dll
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/bin/Debug/netcoreapp2.2/deck_of_cards.pdb
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.csprojAssemblyReference.cache
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.csproj.CoreCompileInputs.cache
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.AssemblyInfoInputs.cache
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.AssemblyInfo.cs
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.dll
+/Users/andrew627/Desktop/C#/OOP/deck_of_cards/obj/Debug/netcoreapp2.2/deck_of_cards.pdb
